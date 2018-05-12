@@ -1,4 +1,8 @@
 _repo: La-Gente-Cursi-Novela-de-Costumbres-Ridiculas_47768
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47768-h/images/cover.jpg
 creator:
   author:
     agent_name: Ortega y Frías, Ramón
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44462
     wikipedia: http://es.wikipedia.org/wiki/Ram%C3%B3n_Ortega_y_Fr%C3%ADas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47768#La-Gente-Cursi-Novela-de-Costumbres-Ridiculas
 gutenberg_issued: '2014-12-24'
 gutenberg_type: Text
 identifiers:
